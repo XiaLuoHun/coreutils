@@ -44,7 +44,8 @@ Or grab the latest build from our [Release Page](https://github.com/microsoft/co
 > Any command not mentioned is included in this suite. The following only lists conflicts.
 
 > [!WARNING]
-> PowerShell 7.4 or newer is required. Older PowerShell versions aren't supported.
+> PowerShell 7.4 or later is required.
+> PowerShell 7.6 or later is recommended for `~` support.
 
 Several commands share names with built-ins in CMD and PowerShell. Whether the Coreutils
 version runs depends on the shell, the PATH order, and (for PowerShell) the alias table.
